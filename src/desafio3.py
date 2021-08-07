@@ -1,10 +1,9 @@
+# Print no terminal as primeiras linhas desse arquivo
+
 import pandas as pd
 
 df_company = pd.read_csv('data/DadosEmpresa.csv')
 
-Total_Single_Opting_Companies = df_company.filter(
-    like='opcao_pelo_simples').query(
-    'opcao_pelo_simples == "SIM"'
-).count()
+First_Lines_DF = df_company.head(3)
 
-print(Total_Single_Opting_Companies)
+print(First_Lines_DF)
