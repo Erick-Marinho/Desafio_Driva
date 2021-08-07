@@ -1,2 +1,5 @@
 # Diretório ambiente virtual
 .DesafioVenv/
+
+# Diretorio cache mypy
+.mypy_cache/
