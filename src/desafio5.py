@@ -1,11 +1,11 @@
+# Print no terminal a soma do "capital_social" de todas as empresas
+
 import pandas as pd
 
 df_company = pd.read_csv('data/DadosEmpresa.csv')
 
-Capital_Social_Between_10000_And_20000 = df_company.loc[
+Sum_Social_Capital = "R$ {:_.2f}".format(
     df_company['capital_social']
-    .between(10000, 20000, inclusive=True),
-    ['razao_social', 'capital_social']
-]
+    .sum()).replace('_', '.')
 
-print(Capital_Social_Between_10000_And_20000)
+print(Sum_Social_Capital)
