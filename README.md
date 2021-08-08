@@ -24,9 +24,9 @@ Neste momento, decidi organizar meu projeto em pequenos desafios, dividi para <s
 
 ## :computer: Desenvolvimento
 
-Posteriormente a organização das tarefas, <s>*depois de 2 xícaras de café*</s> prontamente, criei um ambiente virtual no diretório do meu projeto e fui para a execução das tarefas.
+Posteriormente a organização das tarefas, <s>*depois de 2 xícaras de café*</s>, prontamente, criei um ambiente virtual no diretório do meu projeto e fui para a execução das tarefas.
 
-Criei um repositório no github e fui para a instalação de dependências e bibliotecas que otimizariam e organizariam o desenvolvimento da minha análise de dados.
+Criei um repositório no github, instalei dependências e bibliotecas que otimizariam e organizariam o desenvolvimento da minha análise de dados.
 
 Os dados a serem analisados inicialmente estavam em uma planilha, na qual, no fim das atividades, foi pedido que fosse mergeada com uma outra planilha e após o feito, pediu-se para salvar um arquivo .csv com novas informações.
 
@@ -34,22 +34,22 @@ Particularmente, tenho grande admiração pela biblioteca Pandas, pois trata-se 
 
 Algumas dúvidas surgiram no meio do caminho, e a documentação estava ali para salvar-me, definitivamente sua documentação é esplêndida!
 
-No desafio **Print no terminal o total de empresas nesse arquivo que tem a coluna "opcao_pelo_simples" com o valor "SIM";** fiquei um pouco com dúvida. Não sabia exatamente se a função .value_counts já poderia me conteplar com o resultado, pois ela retorna um objeto contendo contagens de valores únicos, logo, seria retornado a quantidade de SIM e NÃO na mesma consulta, então decidi executar de uma outra forma, trazendo apenas a coluna pedida com a quantidade de valores SIM.
+No desafio **Print no terminal o total de empresas nesse arquivo que tem a coluna "opcao_pelo_simples" com o valor "SIM";** fiquei um pouco inseguro. Não sabia exatamente se a função .value_counts já poderia me conteplar com o resultado, pois ela retorna um objeto contendo contagens de valores únicos, logo, seria retornado a quantidade de SIM e NÃO na mesma consulta, então decidi executar de uma outra forma, trazendo apenas a coluna pedida com a quantidade de valores SIM.
 
 Já no desafio **Print no terminal a soma do "capital_social" de todas as empresas** por se tratar de valores de retorno alto e monetário, a saída fica um pouco ilegível. Resolvi então aplicar uma formatação para melhorar um pouco mais, porém acabou que não fiquei muito seguro quanto ao resultado. Algo que conseguiria sanar aprofundando-me um pouco mais nas informações obtidas dataframe ou fazendo uma pergunta ao Wagner :).
 
-Enfim, os demais desafios, consegui chegar as soluções a contento.
+Enfim, os demais desafios, consegui chegar as soluções de forma <s>*sem arrancar os cabelos*</s> satisfatória.
 
 ## :wrench: Construido com
 
 * [Pandas](https://pandas.pydata.org/) - Biblioteca de análise e manipulação de dados.
 * [Flake8](https://flake8.pycqa.org/en/latest/) - Ferramenta que verifica o estilo do código com base na gloriosa PEP8.
 * [MyPy](https://mypy.readthedocs.io/en/stable/) - Verificador de tipo estático.
-* [Autopep8](https://pypi.org/project/autopep8/) - ferramenta que formata automaticamente o código Python de acordo com o PEP8.
+* [Autopep8](https://pypi.org/project/autopep8/) - Ferramenta que formata automaticamente o código Python de acordo com o PEP8.
 
 ## :flags: Versão
 
-Usei o [GitHub](github.com) para o controle de versão.
+* Usei o [GitHub](github.com) para o controle de versão.
 
 ## ✒️ Autores
 
@@ -57,7 +57,7 @@ Usei o [GitHub](github.com) para o controle de versão.
 
 ## :blush: Expressões de gratidão
 
-* Agradecimento especial ao [Wagner Agostinho](https://www.linkedin.com/in/wagnerrua/) pela oportunidade oferecida, assim sendo possível está realizando este desafio, que com certeza, ajudou-me a desafiar-me e principalmente, ajudou-me a aprender mais. 🤓
+* Queria deixar aqui meu agradecimento especial ao [Wagner Agostinho](https://www.linkedin.com/in/wagnerrua/) CTO | [Driva](https://www.linkedin.com/company/driva-tech/) - pela oportunidade oferecida em realizar este desafio, que com certeza, ajudou-me a desafiar-me e principalmente em aprender um pouco mais. 🤓
 
 ---
 ⌨️ com ❤️ [Erick Marinho](https://github.com/Erick-Marinho)
