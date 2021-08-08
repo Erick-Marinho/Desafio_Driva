@@ -42,10 +42,10 @@ Enfim, os demais desafios, consegui chegar as soluções a contento.
 
 ## :wrench: Construido com
 
-[Pandas](https://pandas.pydata.org/) - Biblioteca de análise e manipulação de dados.
-[Flake8](https://flake8.pycqa.org/en/latest/) - Ferramenta que verifica o estilo do código com base na gloriosa PEP8.
-[MyPy](https://mypy.readthedocs.io/en/stable/) - Verificador de tipo estático.
-[Autopep8](https://pypi.org/project/autopep8/) - ferramenta que formata automaticamente o código Python de acordo com o PEP8.
+* [Pandas](https://pandas.pydata.org/) - Biblioteca de análise e manipulação de dados.
+* [Flake8](https://flake8.pycqa.org/en/latest/) - Ferramenta que verifica o estilo do código com base na gloriosa PEP8.
+* [MyPy](https://mypy.readthedocs.io/en/stable/) - Verificador de tipo estático.
+* [Autopep8](https://pypi.org/project/autopep8/) - ferramenta que formata automaticamente o código Python de acordo com o PEP8.
 
 ## :flags: Versão
 
