@@ -1,7 +1,7 @@
 # Desafio_Driva_Opção_01
 Neste repositório encontram-se as resoluções para o desafio proposto pela empresa Driva.
 
-Foram disponibilzadas pela empresa, através de seu CTO - **Wagner Agostinho**,  duas opções de desafios, logo, neste repositório, encontram-se as soluções para a 1º opção. 
+Foram disponibilzadas pela empresa, através de seu CTO - [Wagner Agostinho](https://www.linkedin.com/in/wagnerrua/),  duas opções de desafios, logo, neste repositório, encontram-se as soluções para a 1º opção. 
 
 ## :panda_face: Desafio Opção 01
 
