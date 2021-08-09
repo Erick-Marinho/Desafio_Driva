@@ -55,7 +55,7 @@ Enfim, os demais desafios, consegui chegar as soluções de forma <s>*sem arranc
 
 ## :blush: Expressões de gratidão
 
-* Queria deixar aqui meu agradecimento especial ao [Wagner Agostinho](https://www.linkedin.com/in/wagnerrua/) CTO | [Driva](https://www.linkedin.com/company/driva-tech/) - pela oportunidade oferecida em realizar este desafio, que com certeza, ajudou-me a desafiar-me e principalmente em aprender um pouco mais. 🤓
+* Queria deixar aqui meu agradecimento especial ao [Wagner Agostinho](https://www.linkedin.com/in/wagnerrua/) CTO | [Driva](https://www.linkedin.com/company/driva-tech/) - pela oportunidade oferecida em realizar este desafio, que com certeza, ajudou-me a desafiar-me e principalmente em aprender um pouco mais.🤓
 
 ---
 ⌨️ com ❤️ [Erick Marinho](https://github.com/Erick-Marinho)
