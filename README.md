@@ -7,8 +7,6 @@ Foram disponibilzadas pela empresa, através de seu CTO - [Wagner Agostinho](htt
 
 Na opção 01, foi pedido para elaborar um pequeno código em Python utilizando a biblioteca Pandas e que atendesse aos seguintes requisitos.
 
-Neste momento, decidi organizar meu projeto em pequenos desafios, dividi para <s>*não se perder*</s> conquistar, enumerando os desafios do 1º ao 8º, já contidos os desafios EXTRAS, assim como também resolvi usar checkboxs para marcação de tarefas concluídas e/ou não concluídas.
-
 **Checklist**
 
 - [x] Leia o arquivo "DadosEmpresa.csv";
